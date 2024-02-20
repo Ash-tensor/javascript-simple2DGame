@@ -7,7 +7,7 @@ function deleteZeldaWay() {
     $zelda.classList.remove('forward-stand');
 }
 
-$zelda.setAttribute('style', 'background-image: url("../Asset/front_walk0.png");');
+// $zelda.setAttribute('style', 'background-image: url("./Asset/front_walk0.png");');
 
 const allowedKeys = ['ArrowRight', 'ArrowLeft', 'ArrowUp', 'ArrowDown']
 
