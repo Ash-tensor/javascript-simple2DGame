@@ -8,6 +8,7 @@ function deleteZeldaWay() {
 }
 
 // $zelda.setAttribute('style', 'background-image: url("./Asset/front_walk0.png");');
+$zelda.classList.add('forward-stand');
 
 const allowedKeys = ['ArrowRight', 'ArrowLeft', 'ArrowUp', 'ArrowDown']
 
