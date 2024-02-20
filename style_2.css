@@ -38,19 +38,19 @@ body {
 }
 
 .left-stand {
-    background-image: url("/Asset/left_stand.png");
+    background-image: url("./Asset/left_stand.png");
 }
 
 .right-stand {
-    background-image: url("/Asset/right_stand.png");
+    background-image: url("./Asset/right_stand.png");
 }
 
 .back-stand {
-    background-image: url("/Asset/back_stand.png");
+    background-image: url("./Asset/back_stand.png");
 }
 
 .forward-stand {
-    background-image: url("/Asset/front_stand.png");
+    background-image: url("./Asset/front_stand.png");
 }
 
 .pause-animation {
@@ -79,144 +79,144 @@ body {
 
 @keyframes back-step {
     0% {
-        background-image: url("Asset/back_walk0.png");
+        background-image: url("./Asset/back_walk0.png");
     }
     10% {
-        background-image: url("Asset/back_walk1.png");
+        background-image: url("./Asset/back_walk1.png");
     }
     20% {
-        background-image: url("Asset/back_walk2.png");
+        background-image: url("./Asset/back_walk2.png");
     }
     30% {
-        background-image: url("Asset/back_walk3.png");
+        background-image: url("./Asset/back_walk3.png");
     }
     40% {
-        background-image: url("Asset/back_walk4.png");
+        background-image: url("./Asset/back_walk4.png");
     }
     50% {
-        background-image: url("Asset/back_walk5.png");
+        background-image: url("./Asset/back_walk5.png");
     }
     60% {
-        background-image: url("Asset/back_walk6.png");
+        background-image: url("./Asset/back_walk6.png");
     }
     70% {
-        background-image: url("Asset/back_walk7.png");
+        background-image: url("./Asset/back_walk7.png");
     }
     80% {
-        background-image: url("Asset/back_walk8.png");
+        background-image: url("./Asset/back_walk8.png");
     }
     90% {
-        background-image: url("Asset/back_walk9.png");
+        background-image: url("./Asset/back_walk9.png");
     }
     100% {
-        background-image: url("Asset/back_walk0.png");
+        background-image: url("./Asset/back_walk0.png");
     }
 }
 
 @keyframes forward-step {
     0% {
-        background-image: url("Asset/front_walk0.png");
+        background-image: url("./Asset/front_walk0.png");
     }
     10% {
-        background-image: url("Asset/front_walk1.png");
+        background-image: url("./Asset/front_walk1.png");
     }
     20% {
-        background-image: url("Asset/front_walk2.png");
+        background-image: url("./Asset/front_walk2.png");
     }
     30% {
-        background-image: url("Asset/front_walk3.png");
+        background-image: url("./Asset/front_walk3.png");
     }
     40% {
-        background-image: url("Asset/front_walk4.png");
+        background-image: url("./Asset/front_walk4.png");
     }
     50% {
-        background-image: url("Asset/front_walk5.png");
+        background-image: url("./Asset/front_walk5.png");
     }
     60% {
-        background-image: url("Asset/front_walk6.png");
+        background-image: url("./Asset/front_walk6.png");
     }
     70% {
-        background-image: url("Asset/front_walk7.png");
+        background-image: url("./Asset/front_walk7.png");
     }
     80% {
-        background-image: url("Asset/front_walk8.png");
+        background-image: url("./Asset/front_walk8.png");
     }
     90% {
-        background-image: url("Asset/front_walk9.png");
+        background-image: url("./Asset/front_walk9.png");
     }
     100% {
-        background-image: url("Asset/front_walk0.png");
+        background-image: url("./Asset/front_walk0.png");
     }
 }
 
 @keyframes left-step {
     0% {
-        background-image: url("Asset/left_walk0.png");
+        background-image: url("./Asset/left_walk0.png");
     }
     10% {
-        background-image: url("Asset/left_walk1.png");
+        background-image: url("./Asset/left_walk1.png");
     }
     20% {
-        background-image: url("Asset/left_walk2.png");
+        background-image: url("./Asset/left_walk2.png");
     }
     30% {
-        background-image: url("Asset/left_walk3.png");
+        background-image: url("./Asset/left_walk3.png");
     }
     40% {
-        background-image: url("Asset/left_walk4.png");
+        background-image: url("./Asset/left_walk4.png");
     }
     50% {
-        background-image: url("Asset/left_walk5.png");
+        background-image: url("./Asset/left_walk5.png");
     }
     60% {
-        background-image: url("Asset/left_walk6.png");
+        background-image: url("./Asset/left_walk6.png");
     }
     70% {
-        background-image: url("Asset/left_walk7.png");
+        background-image: url("./Asset/left_walk7.png");
     }
     80% {
-        background-image: url("Asset/left_walk8.png");
+        background-image: url("./Asset/left_walk8.png");
     }
     90% {
-        background-image: url("Asset/left_walk9.png");
+        background-image: url("./Asset/left_walk9.png");
     }
     100% {
-        background-image: url("Asset/left_walk0.png");
+        background-image: url("./Asset/left_walk0.png");
     }
 }
 
 @keyframes right-step {
     0% {
-        background-image: url("Asset/right_walk0.png");
+        background-image: url("./Asset/right_walk0.png");
     }
     10% {
-        background-image: url("Asset/right_walk1.png");
+        background-image: url("./Asset/right_walk1.png");
     }
     20% {
-        background-image: url("Asset/right_walk2.png");
+        background-image: url("./Asset/right_walk2.png");
     }
     30% {
-        background-image: url("Asset/right_walk3.png");
+        background-image: url("./Asset/right_walk3.png");
     }
     40% {
-        background-image: url("/Asset/right_walk4.png");
+        background-image: url("./Asset/right_walk4.png");
     }
     50% {
-        background-image: url("/Asset/right_walk5.png");
+        background-image: url("./Asset/right_walk5.png");
     }
     60% {
-        background-image: url("/Asset/right_walk6.png");
+        background-image: url("./Asset/right_walk6.png");
     }
     70% {
-        background-image: url("/Asset/right_walk7.png");
+        background-image: url("./Asset/right_walk7.png");
     }
     80% {
-        background-image: url("/Asset/right_walk8.png");
+        background-image: url("./Asset/right_walk8.png");
     }
     90% {
-        background-image: url("/Asset/right_walk9.png");
+        background-image: url("./Asset/right_walk9.png");
     }
     100% {
-        background-image: url("/Asset/right_walk0.png");
+        background-image: url("./Asset/right_walk0.png");
     }
 }
