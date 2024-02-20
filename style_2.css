@@ -38,19 +38,19 @@ body {
 }
 
 .left-stand {
-    background-image: url("Asset/left_stand.png");
+    background-image: url("/Asset/left_stand.png");
 }
 
 .right-stand {
-    background-image: url("Asset/right_stand.png");
+    background-image: url("/Asset/right_stand.png");
 }
 
 .back-stand {
-    background-image: url("Asset/back_stand.png");
+    background-image: url("/Asset/back_stand.png");
 }
 
 .forward-stand {
-    background-image: url("Asset/front_stand.png");
+    background-image: url("/Asset/front_stand.png");
 }
 
 .pause-animation {
@@ -199,24 +199,24 @@ body {
         background-image: url("Asset/right_walk3.png");
     }
     40% {
-        background-image: url("Asset/right_walk4.png");
+        background-image: url("/Asset/right_walk4.png");
     }
     50% {
-        background-image: url("Asset/right_walk5.png");
+        background-image: url("/Asset/right_walk5.png");
     }
     60% {
-        background-image: url("Asset/right_walk6.png");
+        background-image: url("/Asset/right_walk6.png");
     }
     70% {
-        background-image: url("Asset/right_walk7.png");
+        background-image: url("/Asset/right_walk7.png");
     }
     80% {
-        background-image: url("Asset/right_walk8.png");
+        background-image: url("/Asset/right_walk8.png");
     }
     90% {
-        background-image: url("Asset/right_walk9.png");
+        background-image: url("/Asset/right_walk9.png");
     }
     100% {
-        background-image: url("Asset/right_walk0.png");
+        background-image: url("/Asset/right_walk0.png");
     }
 }
